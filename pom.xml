@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zackehh</groupId>
+    <groupId>io.whitfin</groupId>
     <artifactId>jackson-datatype-hadoop</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -13,22 +13,20 @@
     <description>
         Java Jackson JSON serialisation of Hadoop Writables.
     </description>
-    <url>https://github.com/zackehh/jackson-datatype-hadoop</url>
+    <url>https://github.com/whitfin/jackson-datatype-hadoop</url>
 
     <developers>
         <developer>
-            <id>iwhitfield</id>
+            <id>whitfin</id>
             <name>Isaac Whitfield</name>
-            <email>iw@zackehh.com</email>
-            <organization>Appcelerator, Inc.</organization>
-            <organizationUrl>http://www.appcelerator.com</organizationUrl>
+            <email>isaac@whitfin.io</email>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:zackehh/jackson-datatype-hadoop.git</connection>
-        <developerConnection>scm:git:git@github.com:zackehh/jackson-datatype-hadoop.git</developerConnection>
-        <url>git@github.com:zackehh/jackson-datatype-hadoop.git</url>
+        <connection>scm:git:git@github.com:whitfin/jackson-datatype-hadoop.git</connection>
+        <developerConnection>scm:git:git@github.com:whitfin/jackson-datatype-hadoop.git</developerConnection>
+        <url>git@github.com:whitfin/jackson-datatype-hadoop.git</url>
     </scm>
 
     <licenses>
